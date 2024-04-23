@@ -1,9 +1,10 @@
 sudo: required
+language: generic
 
 services:
   - docker
 
-Before_install:
+before_install:
   - docker build -t smktech/docker-react -f Dockerfile.dev .
 
 script:
