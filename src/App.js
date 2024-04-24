@@ -7,9 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.-- Hello AWS
+          Edit <code>src/App.js</code> and save to reload.-- Hello AWS feature
         </p>
-        <P>I was changed on the Feature </P>
         <a
           className="App-link"
           href="https://reactjs.org"
