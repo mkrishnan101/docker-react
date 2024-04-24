@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.-- Hello AWS
         </p>
+        <P>I was changed on the Feature </P>
         <a
           className="App-link"
           href="https://reactjs.org"
